@@ -12,3 +12,7 @@ node_modules/
 # npm install express (can also uninstall)
 
 # Semantic versioning ex 4.18.2 (Major, Minor, Patch) Needs to be the same for all team members
+
+# killall -9 node (kills your server)
+
+# npm start (runs the start in package.json)
